@@ -24,5 +24,5 @@ Report: .\Lab1\20215174-VuDucAn-BC_TH_Lab1.docx <br />
 Aims.java: .\Lab02\AimsProject\src\Aims.java <br />
 Cart.java: .\Lab02\AimsProject\src\Cart.java <br />
 DigitalVideoDisc.java: .\Lab02\AimsProject\src\DigitalVideoDisc.java <br />
-Diagrams: .\Lab02\Diagrams.
+Diagrams: .\Lab02\Diagrams.asta <br />
 Report: .\Lab02\20215174-VuDucAn-BC_TH_Lab02.docx <br />
