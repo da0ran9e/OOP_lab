@@ -3,6 +3,12 @@
 For homework asignments
 # Folder paths:
 
+## Report & Question answer:
+
+[Lab01](OtherProjects/src/hust/soict/Lab1/20215174-VuDucAn-BC_TH_Lab1.docx) <br />
+[Lab02](Lab02/20215174-VuDucAn-BC_TH_Lab2.docx) <br />
+[Lab03](Lab03/20215174-VuDucAn-BC_TH_Lab03.docx) <br />
+
 ## Lab01:
 
 ex 2.2.1: [main.java](OtherProjects/src/hust/soict/Lab1/Very_First_Programs/src/Main.java) <br />
@@ -26,3 +32,9 @@ Report: [20215174-VuDucAn-BC_TH_Lab1.docx](OtherProjects/src/hust/soict/Lab1/202
 [DigitalVideoDisc.java](OtherProjects/src/hust/soict/Lab02/AimsProject/src/DigitalVideoDisc.java) <br />
 [Diagrams](OtherProjects/src/hust/soict/Lab02/Diagrams.asta) <br />
 [Report](OtherProjects/src/hust/soict/Lab02/20215174-VuDucAn-BC_TH_Lab02.docx) <br />
+
+## Lab03:
+
+[AimsProject](AimsProject/src/hust/soict/ict/aims) <br />
+[Garbage](OtherProjects/src/hust/soict/globalict/garbage) belong to [OrtherProjects](OtherProjects)<br />
+[Report](Lab03/20215174-VuDucAn-BC_TH_Lab03.docx) <br />
