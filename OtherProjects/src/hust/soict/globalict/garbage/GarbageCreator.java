@@ -8,7 +8,6 @@ public class GarbageCreator {
 	public void createGarbage() {
 		for (int i = 0; i < 1000000; i++) {
 			Object garbage = new Object();
-			// this.garbageList.add(garbage);
 			System.out.print(i);
 		}
 		
