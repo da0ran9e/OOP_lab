@@ -5,9 +5,9 @@ For homework asignments
 
 ## Report & Question answer:
 
-[Lab01](OtherProjects/src/hust/soict/Lab1/20215174-VuDucAn-BC_TH_Lab1.docx) <br />
-[Lab02](Lab02/20215174-VuDucAn-BC_TH_Lab2.docx) <br />
-[Lab03](Lab03/20215174-VuDucAn-BC_TH_Lab03.docx) <br />
+[Lab01](OtherProjects/src/hust/soict/Lab1/20215174-VuDucAn-BC_TH_Lab1.docx) - Basic Java<br />
+[Lab02](Lab02/20215174-VuDucAn-BC_TH_Lab2.docx) - Problem Modeling and Encapsulation<br />
+[Lab03](Lab03/20215174-VuDucAn-BC_TH_Lab03.docx) - Basic Object-Oriented Techniques & Release Workflow<br />
 
 ## Lab01:
 
