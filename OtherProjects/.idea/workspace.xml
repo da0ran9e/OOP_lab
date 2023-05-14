@@ -1,8 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ac4e68a-46a0-40ef-a90f-78642ed322b5" name="Changes" comment="">
+    <list default="true" id="c8df4a85-b9f8-4cf4-b25c-b3a72e7d4dcf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/hust/soict/globalict/garbage/BinaryTextReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hust/soict/globalict/garbage/test.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hust/soict/globalict/garbage/test0.5Mb.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Lab03/20215174-VuDucAn-BC_TH_Lab03.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab03/20215174-VuDucAn-BC_TH_Lab03.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hust/soict/globalict/garbage/GarbageCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hust/soict/globalict/garbage/GarbageCreator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hust/soict/globalict/garbage/NoGarbage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hust/soict/globalict/garbage/NoGarbage.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,41 +21,28 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="2PkfuNvvIcSSFK7CxkvFm8u0WCr" />
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2PmMeSzUEBd2ZtZOrIb9g00p1JM" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/vuduc/OneDrive/Documents/GitHub/OOP_lab&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
   }
-}</component>
-  <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="OtherProjects" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="OtherProjects" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="4ac4e68a-46a0-40ef-a90f-78642ed322b5" name="Changes" comment="" />
-      <created>1684006226131</created>
+      <changelist id="c8df4a85-b9f8-4cf4-b25c-b3a72e7d4dcf" name="Changes" comment="" />
+      <created>1684057899702</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1684006226131</updated>
+      <updated>1684057899702</updated>
     </task>
     <servers />
   </component>

@@ -6,31 +6,28 @@ import java.util.Scanner;
 
 public class GarbageCreator {
 	public void createGarbage() {
-		for (int i = 0; i < 1000000; i++) {
+		for (int i = 1; i < 1000001; i++) {
 			Object garbage = new Object();
-			System.out.print(i);
+			System.out.print("Created <garbage>"+i+"</garbage>");
 		}
-		
-		System.out.println("1 mil garbage has been created");
 	}
 	
 	public static void main(String[] args) {
-		GarbageCreator truck = new GarbageCreator();
-		truck.createGarbage();
+		GarbageCreator bin = new GarbageCreator();
+		bin.createGarbage();
 		
 		Scanner scanner = new Scanner(System.in);
-		String name = "";
-		NoGarbage cleaner = new NoGarbage();
+		String ans;
 
 		while(true) {
-			System.out.println("\"Clean\" to clean garbage. \"X\" to exit");
-			System.out.print("Enter your name? ");
-			name = scanner.nextLine();
+			System.out.println( "Clean garbage? \"Y\" or \"N\"");
+			ans = scanner.nextLine();
 
-			if (name.equals("Clean")) {
-				truck = null;
+			if (ans.toLowerCase().equals("y")) {
+				NoGarbage cleaner = new NoGarbage();
+				bin = null;
 				cleaner.cleanUpGarbage();
-			} else if (name.equals("X")) {
+			} else if (ans.toLowerCase().equals("n")) {
 				break;
 			}
 		}
