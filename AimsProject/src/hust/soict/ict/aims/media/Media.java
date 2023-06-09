@@ -52,4 +52,14 @@ public class Media {
     public void setCost(float cost) {
         this.cost = cost;
     }
+
+    public boolean isMatch(String keywords) {
+        String[] words = keywords.toLowerCase().split("\\s+");
+		for (String word : words) {
+			if (this.getTitle().toLowerCase().contains(word)) {
+				return true;
+			}
+		}
+		return false;
+    }
 }
