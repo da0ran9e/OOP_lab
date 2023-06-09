@@ -1,23 +1,23 @@
 package hust.soict.ict.aims.store;
 
-import hust.soict.ict.aims.media.DigitalVideoDisc;
+import hust.soict.ict.aims.media.Media;
 
 import java.util.ArrayList;
 import java.util.List;
 
 public class Store {
-    private List<DigitalVideoDisc> wareHouse = new ArrayList<DigitalVideoDisc>(100);
+    private List<Media> wareHouse = new ArrayList<Media>(100);
 
-    public void addDVD(DigitalVideoDisc dvd) {
-        this.wareHouse.add(dvd);
-        System.out.println("Added: "+dvd.getTitle());
+    public void addDVD(Media media) {
+        this.wareHouse.add(media);
+        System.out.println("Added: "+media.getTitle());
     }
 
-    public void removeDVD(DigitalVideoDisc dvd) {
-        if (this.wareHouse.remove(dvd)) {
-            System.out.println(dvd.getTitle()+"'s removed.");
+    public void removeDVD(Media media) {
+        if (this.wareHouse.remove(media)) {
+            System.out.println(media.getTitle()+"'s removed.");
         } else {
-            System.out.println(dvd.getTitle()+" hasn't in the store yet!");
+            System.out.println(media.getTitle()+" hasn't in the store yet!");
         }
     }
 
