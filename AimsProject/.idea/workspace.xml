@@ -4,24 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8a9b317d-796b-4754-9d24-dd80979d090e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/hust/soict/ict/aims/media/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hust/soict/ict/aims/media/CompactDisc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hust/soict/ict/aims/media/Disc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hust/soict/ict/aims/media/Media.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hust/soict/ict/aims/media/Track.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/aws.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hust/soict/ict/aims/Aims.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hust/soict/ict/aims/Aims.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hust/soict/ict/aims/cart/Cart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hust/soict/ict/aims/cart/Cart.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hust/soict/ict/aims/cart/CartTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hust/soict/ict/aims/cart/CartTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hust/soict/ict/aims/disc/DigitalVideoDisc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hust/soict/ict/aims/media/DigitalVideoDisc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hust/soict/ict/aims/disc/TestPassingParameter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hust/soict/ict/aims/disc/TestPassingParameter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hust/soict/ict/aims/store/Store.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hust/soict/ict/aims/store/Store.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab03/~$215174-VuDucAn-BC_TH_Lab03.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab03/~$B REPORT.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OtherProjects/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OtherProjects/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8a9b317d-796b-4754-9d24-dd80979d090e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
