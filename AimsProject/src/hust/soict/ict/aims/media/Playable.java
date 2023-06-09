@@ -1,5 +1,5 @@
 package hust.soict.ict.aims.media;
 
-public class Playable {
-
+public interface Playable {
+    public void play();
 }

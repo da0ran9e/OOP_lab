@@ -2,7 +2,7 @@ package hust.soict.ict.aims.media;
 
 import java.util.List;
 
-public class CompactDisc extends Media{
+public class CompactDisc extends Media implements Playable{
     private String artist;
     private List<Track> tracks;
 
@@ -55,5 +55,13 @@ public class CompactDisc extends Media{
             length += track.getLength();
         }
         return length;
+    }
+
+    @Override
+    public void play() {
+        System.out.println("Playing CD: " + this.getTitle());
+        for(Track track : tracks) {
+            track.play();
+        }
     }
 }
