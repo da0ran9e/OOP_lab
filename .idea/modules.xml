@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Lab1/Matrices/Matrices.iml" filepath="$PROJECT_DIR$/Lab1/Matrices/Matrices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab1/OOP lab/OOP lab.iml" filepath="$PROJECT_DIR$/Lab1/OOP lab/OOP lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/OOP_lab.iml" filepath="$PROJECT_DIR$/.idea/OOP_lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab1/Sorting _array/Sorting _array.iml" filepath="$PROJECT_DIR$/Lab1/Sorting _array/Sorting _array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab1/Triangle/Triangle.iml" filepath="$PROJECT_DIR$/Lab1/Triangle/Triangle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab1/Very_First_Programs/Very_First_Programs.iml" filepath="$PROJECT_DIR$/Lab1/Very_First_Programs/Very_First_Programs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab1/Year_days/Year_days.iml" filepath="$PROJECT_DIR$/Lab1/Year_days/Year_days.iml" />
+    </modules>
+  </component>
+</project>
