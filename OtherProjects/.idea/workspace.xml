@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c8df4a85-b9f8-4cf4-b25c-b3a72e7d4dcf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/hust/soict/globalict/garbage/BinaryTextReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hust/soict/globalict/garbage/test.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hust/soict/globalict/garbage/test0.5Mb.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab03/20215174-VuDucAn-BC_TH_Lab03.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab03/20215174-VuDucAn-BC_TH_Lab03.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hust/soict/globalict/garbage/GarbageCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hust/soict/globalict/garbage/GarbageCreator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hust/soict/globalict/garbage/NoGarbage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hust/soict/globalict/garbage/NoGarbage.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,8 +32,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/vuduc/OneDrive/Documents/Java_project"
+    "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
