@@ -62,4 +62,19 @@ public class Media {
 		}
 		return false;
     }
+
+    @Override
+    public boolean equals(Object obj) {
+        if (obj instanceof Media) {
+            Media media = (Media) obj;
+            return this.getTitle().equals(media.getTitle());
+        }
+        return false;
+    }
+
+    @Override
+    public String toString() {
+        return "Media [id=" + id + ", title=" + title + ", category="
+                + category + ", cost=" + cost + "]";
+    }
 }
