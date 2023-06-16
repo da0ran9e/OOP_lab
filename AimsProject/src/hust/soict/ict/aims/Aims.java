@@ -2,12 +2,7 @@ package hust.soict.ict.aims;
 
 import hust.soict.ict.aims.cart.Cart;
 import hust.soict.ict.aims.media.DigitalVideoDisc;
-
-<<<<<<< HEAD
-=======
 import java.util.Scanner;
-
->>>>>>> release
 public class Aims {
     public static void showMenu() {
         System.out.println("AIMS: ");
@@ -18,11 +13,7 @@ public class Aims {
         System.out.println("0. Exit");
         System.out.println("--------------------------------");
         System.out.println("Please choose a number: 0-1-2-3");
-<<<<<<< HEAD
-
-
-    }
-=======
+        
         int input;
         Scanner scanner = new Scanner(System.in);
         do{
@@ -115,7 +106,6 @@ public class Aims {
         DigitalVideoDisc book = new DigitalVideoDisc(title, category, author, cost);
         System.out.println("Book added successfully!");
     }
->>>>>>> release
     public static void storeMenu() {
         System.out.println("Options: ");
         System.out.println("--------------------------------");
@@ -148,10 +138,7 @@ public class Aims {
         System.out.println("--------------------------------");
         System.out.println("Please choose a number: 0-1-2-3-4-5");
     }
-<<<<<<< HEAD
-=======
 
->>>>>>> release
     public static void main(String[] args) {
         // TODO Auto-generated method stub
          Cart anOrder = new Cart();
