@@ -1,2 +1,8 @@
-package hust.soict.globalict.swing;public class AWTAccumulator {
+package hust.soict.globalict.swing;
+
+import java.awt.*;
+
+public class AWTAccumulator {
+    private TextField tfInput;
+    private TextField tfOutput;
 }
