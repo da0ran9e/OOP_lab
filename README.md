@@ -8,6 +8,8 @@ For homework asignments
 [Lab01](OtherProjects/src/hust/soict/Lab1/20215174-VuDucAn-BC_TH_Lab1.docx) - Basic Java<br />
 [Lab02](Lab02/20215174-VuDucAn-BC_TH_Lab2.docx) - Problem Modeling and Encapsulation<br />
 [Lab03](Lab03/20215174-VuDucAn-BC_TH_Lab03.docx) - Basic Object-Oriented Techniques & Release Workflow<br />
+[Lab04](Lab03/20215174-VuDucAn-BC_TH_Lab04.docx) - Inheritance and Polymophism <br />
+[Lab05](Lab03/20215174-VuDucAn-BC_TH_Lab05.docx) - GUI Programming<br />
 
 ## Lab01:
 
@@ -38,3 +40,10 @@ Report: [20215174-VuDucAn-BC_TH_Lab1.docx](OtherProjects/src/hust/soict/Lab1/202
 [AimsProject](AimsProject/src/hust/soict/ict/aims) <br />
 [Garbage](OtherProjects/src/hust/soict/globalict/garbage) belong to [OrtherProjects](OtherProjects)<br />
 [Report](Lab03/20215174-VuDucAn-BC_TH_Lab03.docx) <br />
+
+## Lab04:
+[AimsProject](AimsProject/src/hust/soict/ict/aims) <br />
+
+## Lab05:
+[GUIProject](GUIProject) <br />
+[AimsProject](AimsProject/src/hust/soict/ict/aims) <br />
