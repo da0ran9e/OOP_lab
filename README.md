@@ -17,7 +17,7 @@ For homework asignments
 [Example2.java](OtherProjects/src/hust/soict/Lab1/Very_First_Programs/src/Example2.java) <br />
 [Example3.java](OtherProjects/src/hust/soict/Lab1/Very_First_Programs/src/Example3.java) <br />
 [Example4.java](OtherProjects/src/hust/soict/Lab1/Very_First_Programs/src/Example4.java) <br />
-[Calculator.jav](OtherProjects/src/hust/soict/Lab1/Very_First_Programs/src/Calculator.java) <br />
+[Calculator.java](OtherProjects/src/hust/soict/Lab1/Very_First_Programs/src/Calculator.java) <br />
 [solveEquation.java](OtherProjects/src/hust/soict/Lab1/Very_First_Programs/src/solveEquation.java) <br />
 [ChoosingOption.java](OtherProjects/src/hust/soict/Lab1/OOP_lab/src/ChoosingOption.java) <br />
 [InputFromKeyboard.java](OtherProjects/src/hust/soict/Lab1/OOP_lab/src/InputFromKeyboard.java) <br />
